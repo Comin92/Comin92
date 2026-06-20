@@ -15,14 +15,18 @@ Como passei anos garantindo que sistemas críticos não parassem, meu foco técn
 
 - **Domínio de Negócio:** ERP (Logística, Supermercados, Franquias, Atacado/Varejo), Telecom (Provedores/Telefonia) e FinTech (Produtos Financeiros Cooperativos).
 - **Metodologia de Dev:** Prompt Engineering Avançado, Arquitetura de Software com IA, Validação de Lógica e Resolução de Bugs.
-- **Tecnologias que direciono no código:** [Adicione aqui as principais linguagens que suas IAs geram para você, ex: Python, JavaScript, SQL, C#].
+- **Tecnologias que direciono no código:** TypeScript, React, Node.js (Fastify/Express), Next.js, PostgreSQL, Prisma, Supabase, Docker, integrações com APIs de IA (OpenAI), Google (Gmail/Calendar/Drive) e WhatsApp (Evolution API).
 
 ## 💻 Projetos que Desenvolvi (Foco em Soluções Reais)
 
-Aqui estão os repositórios onde apliquei minha lógica de mercado junto com engenharia de prompts para criar ferramentas funcionais:
+Aqui estão os repositórios onde apliquei minha lógica de mercado junto com engenharia de prompts para criar sistemas completos e funcionais, do banco de dados ao front-end:
 
-- 🔗 **[Nome de um Projeto seu](https://github.com/Comin92/NOME-DO-REPOSITORIO)**: *Explique o problema de negócio que ele resolve.* (Ex: Um script automatizado que valida fluxos que aprendi na área de telecom / Uma automação financeira / Um dashboard de dados).
-- 🔗 **[Nome de outro Projeto seu](https://github.com/Comin92/NOME-DO-REPOSITORIO)**: *Breve descrição focada no resultado.* (Ex: Sistema web construído 100% via IA focado em resolver a dor X que vi muito em suporte de ERP).
+- 🔗 **[M&M Studio Pro](https://github.com/Comin92/m-m-studio-pro)**: Sistema de gestão completo para estúdios e personal trainers — prescrição de treinos, avaliações físicas, controle financeiro e integrações com Google (Gmail/Calendar/Drive) e WhatsApp (Evolution API). Em produção, com 205 testes unitários e 144 testes E2E. *Stack: TypeScript, Fastify, PostgreSQL/Supabase, React, Docker.*
+- 🔗 **[Odontofin](https://github.com/Comin92/MMStudio_Persol_Trainer)**: Plataforma de gestão para clínicas odontológicas — agendamento, prontuário de pacientes, controle financeiro, estoque e auditoria, com autenticação e permissões por perfil. *Stack: TypeScript, Python, PostgreSQL.*
+- 🔗 **[ClashMix](https://github.com/Comin92/aclashmix)**: Plataforma de organização de partidas competitivas de CS2 com balanceamento automático de times, sistema de veto de mapas, chat em tempo real e painel administrativo. *Stack: Next.js, Prisma, WebSocket, PostgreSQL.*
+- 🔗 **[StreamMax (VendasIPTV)](https://github.com/Comin92/VendasIPTV)**: Plataforma de vendas e suporte para assinaturas de IPTV, com assistente de atendimento via IA (OpenAI), pagamentos integrados (Stripe) e área do cliente. *Stack: React, Express, Drizzle ORM, PostgreSQL.*
+- 🔗 **[Dashboard Finanças](https://github.com/Comin92/dashboard-financa)**: Dashboard web para visualização de indicadores financeiros, com tema claro/escuro e deploy containerizado (Docker/Kubernetes). *Stack: JavaScript, Docker, Kubernetes.*
+- 🔗 **[GameBoost Pro](https://github.com/Comin92/gameboost-pro)**: Aplicação web de serviços de boost para jogos, com testes automatizados (Vitest + Playwright). *Stack: React, Vite, TypeScript.*
 
 ## 📊 Estatísticas de Código
 
